@@ -1,0 +1,6 @@
+doodle-notifier {
+    display: none;
+}
+#prm {
+    display: none;
+}
