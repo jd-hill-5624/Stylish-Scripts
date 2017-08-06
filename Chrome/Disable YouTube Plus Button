@@ -1,0 +1,9 @@
+button#P {
+    display: none;
+}
+#upload-btn {
+    margin-right: -10px;
+}
+button#console-button {
+    display: none;
+}
